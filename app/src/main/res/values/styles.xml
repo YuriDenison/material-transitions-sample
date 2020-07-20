@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/blue_20</item>
+        <item name="colorPrimaryVariant">@color/blue_20</item>
+        <item name="colorSecondary">@color/blue_60</item>
+        <item name="colorSecondaryVariant">@color/blue_60</item>
+
+        <item name="colorControlHighlight">@color/gray_80</item>
+
+        <item name="colorError">@color/red_60</item>
+        <item name="colorButtonNormal">@color/gray_75</item>
+
+        <item name="android:windowBackground">@color/white_100</item>
+        <item name="colorOnBackground">@color/gray_90</item>
+
+        <item name="android:textColorPrimary">@color/blue_20</item>
+        <item name="android:textColorSecondary">@color/blue_20</item>
+        <item name="android:textColorTertiary">@color/blue_80</item>
+        <item name="android:textColorPrimaryInverse">@color/white_100</item>
+        <item name="android:textColorSecondaryInverse">@color/white_100</item>
+        <item name="android:textColorTertiaryInverse">@color/blue_80</item>
+
+    </style>
+
+</resources>
